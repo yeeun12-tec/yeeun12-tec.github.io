@@ -6,12 +6,12 @@ layout: single
 사람들은 물리학에 대해서 마냥 어려운 학문이라고 생각한다. 이에 많은 물리학자들이 이 학문에 대한 접근장벽을 낮추기 위해 다양한 노력을 한다. 지금까지 나온 다양한 물리 영화에 대해서 소개하고자 한다.
 ---
 ### ★ 빛의 물리학
-![physics_of_light][/assets/images/physics_of_light.jpg]
+![physics_of_light](/assets/images/physics_of_light.jpg)
 EBS 교육방송의 6부작 다큐멘터리 텔레비전 프로그램으로, 빛을 키워드로 삼아 현대 물리학의 두 축인 상대성이론과 양자역학을 쉽게 소개하였으며 책으로도 나왔다.
 
 ---
 ### ★ 인터스텔라
-![interstellar][IMDb]
+![interstellar][IMDb] <br>
 [IMDb]: https://www.imdb.com/title/tt0816692/
 인류가 살아 남기 위해 고심하고 있는 미래를 배경으로 한 이 영화는 웜홀을 통해서 새로운 생존 가능한 행성을 찾는 우주 탐사팀의 이야기를 그린다. 영화 속에는 상대성이론, 우주론 등 다양한 물리학적 개념들이 나와 있다.
 
