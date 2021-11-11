@@ -19,3 +19,9 @@ layout: single
 ### ★ 코스모스
 [![cosmos](/assets/images/cosmos.jpg "더 자세한 내용을 원하시면 방문해 보세요")](https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey)
 <br>칼 세인건이 출연한 13부작 다큐멘터리로 천문학에 대해 이해하기 쉽게 설명하며, 과학적으로 우주와 인간의 관계를 이야기한다.
+
+---
+### ★ 실리콘 밸리의 신화
+![bill_jobs][silicon]
+[silicon]:https://an2-img.amz.wtchn.net/image/v1/watcha/image/upload/c_fill,h_400,q_80,w_280/v1466137418/h2jmm7eh11jdpa8sdoth.jpg
+PC산업의 초창기시절 빌 게이츠와 스티브 잡스의 개발 활약상을 그린 작품이다.
